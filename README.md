@@ -1,5 +1,8 @@
 # eslint-config-nikitarevenco
 
+> [!NOTE]
+> Not used anymore
+
 This is my personal config that I use in all of my projects. It has hundreds of eslint rules and is extremely strict.
 
 ```sh
